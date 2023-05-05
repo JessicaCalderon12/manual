@@ -1,0 +1,43 @@
+body{
+
+	background: #AED6F1 
+
+}
+
+div
+
+{
+
+	height: 190px;
+
+	width: 200px;
+
+	background: #C39BD3 ;
+
+	margin: 50px 50px;
+
+	padding: 60px;
+
+	border:10px solid #000 ;
+
+	display: inline-table;
+
+}
+
+.segundo{
+
+	height: 270px;
+
+	width: 200px;
+
+	background: #C39BD3 ;
+
+	margin: 50px 50px;
+
+	padding: 60px;
+
+	border:10px solid #000 ;
+
+	display: inline-table;
+
+}

@@ -1,0 +1,25 @@
+#cuerpo{
+	background-color: #F5B7B1 ;
+}
+#titulo{
+	text-align: center;
+	font-family: cursive;
+	font-size: 25px;
+}
+.pa{
+	font-family: Times New Roman;
+	font-size: 15px;
+}
+#par{
+	font-size: 20px;
+	font-style: italic;
+}
+.foto{
+	height: 60%;
+	width: 40%;
+	border: 15px solid black;
+	margin-top: 20px;
+}
+a{
+  text-decoration: none;
+}

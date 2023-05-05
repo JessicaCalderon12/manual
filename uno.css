@@ -1,0 +1,43 @@
+ul{
+	list-style-type: square;
+}
+.k{
+     list-style-type: circle;
+}
+.f{
+    list-style-type: disc;
+}
+h1
+{
+	font-family: sans-serif;
+}
+ol{
+	list-style-type: lower-greek;
+
+}
+.s{
+	list-style-type: decimal;
+}
+.h{
+	list-style-type: upper-roman;
+}
+img
+{
+	width: 990px;
+	height: 590px;
+}
+button
+{
+	border: 2px solid black;
+	background-color: #D1F2EB;
+	width: 150px;
+	height: 50px;
+	margin-left: 35px;
+}
+a{
+	 text-decoration: none;
+}
+button:hover {
+    background-color: #F08080; 
+    color: white;
+    }

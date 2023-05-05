@@ -1,0 +1,14 @@
+body{
+	background-color: #EDBB99 ;
+}
+input{
+	background-color: #D4E6F1 ;
+}
+button:hover{
+	background-color: #F2D7D5 ;
+
+}
+button{
+	height: 5%;
+	width: 15%;
+}
