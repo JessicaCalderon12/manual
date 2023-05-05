@@ -1,0 +1,35 @@
+.barra {
+    list-style: none;
+    padding: 0;
+    background-color: rgb(9, 9, 10); 
+    width: 100%;
+    max-width: 1300px;
+    margin: 0;
+}
+.barra li,a{
+    text-decoration: none;
+    color: white;
+    padding: 18px 22px;
+    display: block;
+}
+.barra li {
+    display: inline-block;
+    text-align: center;
+}
+
+.barra li a:hover {
+    background: rgb(255, 147, 135);
+
+}
+
+
+.boton {
+    background-color:  rgb(255, 147, 135);
+    border: none;
+    color: rgb(15, 13, 13);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
